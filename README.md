@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there! 🦭
 
-<!--
-**Meniismim12/Meniismim12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ulug'bek Umarov (aka Seal), a developer based in Uzbekistan who can build practically anything. 
 
-Here are some ideas to get you started:
+I don't just limit myself to websites—I love creating any kind of unique stuff. If you can imagine it, I can probably code it. Just keep in mind: I guarantee it will work, but I take zero responsibility if it accidentally blows up from sheer awesomeness. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is React, TypeScript, Tailwind, Node.js, and Supabase. 
+
+Currently, I'm building custom CRM systems, Telegram automation bots, and pushing my limits from strong junior to mid-level mastery.
+
+Fun Facts:
+* I love building unique, non-standard things that stand out
+* Capable of building almost anything (explosions not covered by warranty)
+* Hobbies: coding, breaking things to see how they work, and building things that actually matter
